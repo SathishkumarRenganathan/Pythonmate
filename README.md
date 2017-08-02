@@ -1,2 +1,0 @@
-# Pythonmate
-Python Example Programs
